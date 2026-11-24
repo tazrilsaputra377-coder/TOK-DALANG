@@ -4,5 +4,5 @@ pages_build_output_dir = "./public"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "tok-dalang-store-db"
-database_id = "ISI_DATABASE_ID_DARI_CLOUDFLARE"
+database_name = "tok-dalang-store-db2"
+database_id = "97f1d7ac-95af-42e2-9d54-4b8b94683b33"
