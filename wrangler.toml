@@ -1,0 +1,8 @@
+name = "tok-dalang-store"
+compatibility_date = "2026-11-24"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tok-dalang-store-db"
+database_id = "ISI_DATABASE_ID_DARI_CLOUDFLARE"
