@@ -4,5 +4,5 @@ pages_build_output_dir = "./public"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "tok-dalang-store-db2"
-database_id = "97f1d7ac-95af-42e2-9d54-4b8b94683b33"
+database_name = "tok-dalang-store-db"
+database_id = "3c25b5ff-a7a7-4f85-8e01-b3f76be3607a"
